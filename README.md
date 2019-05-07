@@ -121,7 +121,13 @@ Business requirements / functionality seem very similar to [Hickory Training](ht
 
 ## Questions/Talking Points
 
-1. 
+* (from last week) Functions as a data type?
+* Immutability in Elixir: can someone explain?
+* Thinking of FP data structures as values at a point in time
+  * Any good examples of this from our own apps?
+  * How does this relate to Event Sourcing? (maybe it doesn't?)
+* "...when we built this application, we didn’t magically land on the perfect data structure. We made mistakes, refactored our data, refactored our functions and them made more mistakes." Would it have been helpful to see those mistakes and refactoring?
+* Why are we storing raw and compiled versions of a Template on the Template struct?
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/chapter-3'>Chapter 3</a> on Learn.co and start learning to code for free.</p>
